@@ -1,0 +1,9 @@
+Name of Quantlet: RND_calibration
+
+Published in: Quantlet
+
+Description: 'Predictive accuracy of option pricing models using high frequency data'
+
+Keywords: Option pricing, RND, high frequency data
+
+Author: Maria Culjak
